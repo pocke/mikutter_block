@@ -1,4 +1,4 @@
 mikutter_block
 ==============
 
-mikutterからブロック
+mikutterからブロックをキメるプラグインです
